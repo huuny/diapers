@@ -1,0 +1,282 @@
+.navbar{
+    background-color: brown !important;
+    overflow: hidden !important;
+
+  
+}
+
+.nav-link{
+    color: chartreuse !important;
+    font
+}
+
+
+
+
+.four{
+   text-decoration: none;
+   color:white;
+   padding: 10px 18px;
+   border: 1px solid #ffffff;
+   font-size: 12px;
+   background-color: #FF1493;
+   margin-right:50px;
+   font-size: large;
+   border-radius: 50px;
+
+}
+.UK{
+   text-decoration: none;
+   color: white;
+   padding: 10px 18px;
+   border: 1px solid #ffffff;
+   background-color: #ffca18;
+   font-size: 12px;
+   margin-right: 50px;
+   font-size: large;
+   border-radius: 50px;
+   
+   
+
+}
+.SMIT{ text-decoration: none;
+   color: white;
+   padding: 10px 18px;
+   border: 1px solid #ffffff;
+   background-color: #3f48cc;
+   font-size: 12px;
+   margin-right: 50px;
+   font-size: large;
+   border-radius: 50px;
+
+}
+
+.pl{
+   margin-left: 100px;
+   
+}
+.resap{
+   @media screen and (max-width: 600px) {
+
+}
+}
+   
+   
+    
+@media screen and (max-width: 600px) {
+    .card-img-top{
+      width: 100%;
+    }
+  }
+
+.card-img-top{
+   padding-top: 100px ;
+   padding-bottom: 100px;
+   padding-left: 70px;
+   padding-right: 70px;
+   
+}
+.card{
+    border: white
+}
+
+.bh{
+    background-color: yellow;
+}
+.card-img-top{
+    background-color: whitesmoke;
+}
+
+.pi{
+    /* border: #333333 1px; */
+    background-color: #333333;
+    height: 100%;
+    width: 100%;
+   
+
+}
+.ghj{
+    color: #bbb;;
+     margin-left: 50px;
+     padding-top: 110px;
+     line-height: 20px;
+
+    
+}
+
+
+
+.ooo{
+   color: white;
+   font-size: 20px;
+   margin-left: 20px;
+   /* text-decoration: underline ; */
+  
+ 
+   
+}
+
+.bhjj{
+   color: white;
+}
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+
+a.btn-social,
+.btn-social
+{
+   border-radius: 50%;
+   color: #ffffff !important;
+   display: inline-block;
+   height: 45px;
+   line-height: 54px;
+   margin: 8px 4px;
+   text-align: center;
+   text-decoration: none;
+   transition: background-color .3s;
+   
+   width: 45px;
+   /* float: right
+   ;
+    */
+   
+}
+
+.btn-social:hover,.btn-social:focus
+{
+   color: #fff;
+   outline: none;
+   text-decoration: none;
+}
+
+
+.btn-facebook
+{
+   background-color: #3B5998;;
+   
+}
+.btn-facebook:hover
+{
+   background-color: blue;;
+}
+
+.btn-instagram
+{
+   background-color: #316DC3;;
+}
+.btn-instagram:hover
+{
+   background-color: blue;
+}
+
+.btn-twitter
+{
+   background-color:#55ACEE ;
+}
+.btn-twitter:hover
+{
+   background-color: blue;;
+}
+
+.btn-youtube
+{
+   background-color: #bb0000;;
+}
+.btn-youtube:hover
+{
+   background-color: blue;;
+}
+.btn-google{
+    background-color: #dd4b39;
+}
+.btn-google:hover{
+    background-color: blue;
+
+}
+
+.azx{margin-left: 50px;
+ margin-bottom:50px;
+}
+.lol{
+    color: #bbb;;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.llp{
+    height: 15px;}
+.rounded{
+   height: 200px;
+
+}
+
+
+.circular--square {
+   border-radius: 90%;
+ }
+
+ .ma{
+   border: 2px solid #316DC3;
+   background-color:yellow;
+   margin-left: 100px;
+   margin-right: 100px;
+
+}
+.jko{
+   height: 300px;
+   margin-left: 95px;
+   margin-top: 30px;
+
+}
+.jki{
+   height: 300px;
+   margin-left: 70px;
+   margin-top: 30px;
+   
+}
+
+.jk{
+   height: 300px;
+   margin-left: 110px;
+   margin-top: 30px;
+   
+}
+.vv{
+   margin-left: 100px;
+}
+ .vk{
+    margin-left: 80px;
+ }
+.vj{
+   margin-left: 75px;
+}
+.in{
+    margin-left: 340px;
+      margin-right: 200px;
+      color: #666666;
+      line-height: 1.5;
+      font-size: large;
+  
+  
+}
+.jv{
+   height: 100px;
+   margin-left: 50px
+   ;
+}
+.jvj{ height: 100px;
+   
+    margin-left: 900px;
+}
+.bg{
+   background-color: #87CEFA	;
+}
+.img-fluid{
+   height: 200px;
+   width: 300px;
+   
+}
+.pink{
+   background-color: #FF99CC;
+}
+.neebg{
+   background-color: orangered;
+}
